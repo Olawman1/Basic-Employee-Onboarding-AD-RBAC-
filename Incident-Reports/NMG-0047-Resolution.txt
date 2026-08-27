@@ -1,6 +1,6 @@
-1. Jane's user identity is in the operations OU.
-2. I found that Jane was in the Operations OU, but she is supposed to be in the HR OU, she is a payroll specialist.
-3. Jane Cooper is currently in the Operations-Users OU. She should be in the HR-Users OU.
+Jane's user identity is in the operations OU.
+I found that Jane was in the Operations OU, but she is supposed to be in the HR OU, she is a payroll specialist.
+Jane Cooper is currently in the Operations-Users security group but she should be in the HR-Users security group. 
 
 Jane's access was denied because she was placed in the incorrect OU which led to her having the incorrect access. Based on my findings her access was not applied properly. 
  
@@ -15,6 +15,6 @@ Root cause: Jane was not placed in the correct OU and security group which led t
 
 Fix applied: I fixed the issue by placing her in the HR OU and HR-Users security group.
 
-Verification: I confirmed the issue was resolved by revieing the OU and Security group members and taking screenshots. 
+Verification: I confirmed the issue was resolved by reviewing the OU and Security group members and taking screenshots. 
 
 Date resolved: 08/26/2026
