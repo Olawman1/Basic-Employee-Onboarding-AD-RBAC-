@@ -25,7 +25,7 @@ The solution was to build out a basic employee onboarding pipeline in Active Dir
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Built the NMG.com Active Directory domain from scratch
+* Solved a mock ticket in which a user was given incorrect access
+* Fully documented my steps end-to-end
 
