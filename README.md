@@ -29,5 +29,6 @@ The solution was to build out a basic employee onboarding pipeline in Active Dir
 * Designed department-based OU structure (Finance, HR, IT, Operations)
 * Implemented RBAC with security groups mapped to each department
 * Provisioned 15 user accounts with consistent naming conventions and attribute standards
-* Solved a mock ticket in which a user was given incorrect access
+* Diagnosed and resolved a multi-cause access issue (wrong OU + missing group membership)
+* Documented full incident resolution with root cause analysis
 
