@@ -1,6 +1,8 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
+The problem in this project was related to a fictional healthcare organization called Northstar Medical Group. They are a rapidly growing company that had outsourced its identity lifecycle management processes to a third-party managed service provider (MSP). While this approach initially supported the organization's needs, significant identity and access management challenges emerged as the company expanded. Northstar lacked a formal role-based access control (RBAC) model, resulting in users receiving access on an ad hoc basis. The organization also lacked sufficient audit trails to track access which increased the exposure to HIPAA compliance and security issues. 
+
 [Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
 
 ## Solution Overview
